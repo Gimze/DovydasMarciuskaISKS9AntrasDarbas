@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">DovydasMarciuskaISKS9PirmasDarbas</string>
+    <string-array name="options">
+        <item>CharCount</item>
+        <item>WordCount</item>
+    </string-array>
 </resources>
